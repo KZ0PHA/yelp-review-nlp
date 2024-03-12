@@ -6,4 +6,4 @@ This project explores the sentiment of Yelp reviews to understand its relationsh
 [View Presentation](https://docs.google.com/presentation/d/1Dd6LnDLeSySS5ePxq6UU9FqNN78-lAZCRejmnD34oHk/edit?usp=sharing)
 
 ## Demo
-[NLPalate] (https://nlpalate.streamlit.app/)
+[NLPalate](https://nlpalate.streamlit.app/)
