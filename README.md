@@ -28,10 +28,10 @@ This project explores the sentiment of [Yelp reviews](https://www.yelp.com/datas
 This project leverages a variety of technologies, libraries, and tools focused on data science and natural language processing (NLP), built with Python 3.10.6. Here's an overview of the foundational elements:
 
 ### Libraries:
-**Data Manipulation and Analysis:** Pandas for handling and analyzing data structures.
-**Visualization:** WordCloud for generating word clouds, Matplotlib & Seaborn for creating statistical graphics, and Plotly for interactive visualizations.
-**Machine Learning & NLP:** Scikit-learn for machine learning algorithms, NLTK for natural language processing tasks.
-**Web Application:** Streamlit for developing interactive web apps to showcase the NLP models.
+- **Data Manipulation and Analysis:** Pandas for handling and analyzing data structures.
+- **Visualization:** WordCloud for generating word clouds, Matplotlib & Seaborn for creating statistical graphics, and Plotly for interactive visualizations.
+- **Machine Learning & NLP:** Scikit-learn for machine learning algorithms, NLTK for natural language processing tasks.
+- **Web Application:** Streamlit for developing interactive web apps to showcase the NLP models.
 
 ### NLP Techniques and Models:
 - **Topic Modeling:** LDA (Latent Dirichlet Allocation) to discover abstract topics within text data.
