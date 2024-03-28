@@ -57,10 +57,58 @@ Streamlit: Employed a user-friendly interface for interacting with the backend m
 [NLPalate](https://nlpalate.streamlit.app/)
 
 ## Installation instructions
-To be updated
+To get this project up and running on your local machine, follow these steps. These instructions assume you have Python 3.10.6 installed. If not, please install Python from python.org first.
 
-## Usage instructions
-To be updated
+#### 1. Clone the Repository
+Start by cloning the repository to your local machine. Open a terminal and run:
+```bash
+git clone https://github.com/yourusername/yelp-sentiment-analysis.git
+cd yelp-sentiment-analysis
+```
+Replace https://github.com/yourusername/yelp-sentiment-analysis.git with the actual URL of your GitHub repository.
+
+#### 2. Setting Up a Virtual Environment with pyenv
+It's recommended to manage Python versions and virtual environments using pyenv. This ensures that project dependencies do not interfere with system-wide Python packages. If you haven't already, install pyenv by following the instructions on pyenv's GitHub repository.
+
+After installing pyenv, follow these steps to set up a virtual environment for the project:
+##### 1. Install Python 3.10.6 using pyenv (skip this step if you already have this version installed):
+```bash
+pyenv install 3.10.6
+```
+##### 2. Create a virtual environment named yelp-sentiment-analysis (or another name of your choice) using Python 3.10.6:
+```bash
+pyenv virtualenv 3.10.6 yelp-sentiment-analysis
+```
+##### 3. Activate the virtual environment. Navigate to your project's directory, then set the local Python version to your newly created virtual environment:
+```bash
+cd path/to/yelp-sentiment-analysis
+pyenv local yelp-sentiment-analysis
+```
+This step will create a .python-version file in your project directory, automatically activating the yelp-sentiment-analysis virtual environment whenever you navigate to this directory.
+##### 4. Verify that the virtual environment is activated by checking the Python version:
+```bash
+python --version
+```
+This command should output Python 3.10.6, indicating that the correct version of Python is being used.
+
+#### 3. Install Dependencies
+Install all the dependencies listed in requirements.txt:
+```bash
+pip install -r requirements.txt
+```
+Ensure you have a requirements.txt file in your repository with all the necessary libraries, including Pandas, WordCloud, Matplotlib, Seaborn, Plotly, Scikit-learn, NLTK, and Streamlit.
+
+#### 4. Set Up the Streamlit Application
+To run the Streamlit application, navigate to the directory containing your Streamlit script (e.g., app.py) and execute:
+```bash
+streamlit run app.py
+```
+
+#### 5. Accessing OpenAI API
+To use the OpenAI Public API, you need an API key. Please visit OpenAI API for instructions on how to obtain one. Once you have your API key, ensure you store it securely and use it to authenticate your API requests as per OpenAI's documentation.
+```bash
+streamlit run app.py
+```
 
 ## Support
 For any issues or questions regarding the project, please reach out to me on sophiatsoi.jp@gmail.com 
