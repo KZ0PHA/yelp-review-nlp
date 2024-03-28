@@ -148,5 +148,5 @@ Recognizing these limitations, future iterations of this project could include:
 - **René Osorio** - [reneosorio77](https://github.com/reneosorio77)
 
 ## Acknowledgments
-- Special thanks to Xavier Fontaine, Juan Garassino, Andrii Gegliuk, Yusuke Ishida for their guidance and insights throughout the development of this project.
+- Special thanks to Xavier Fontaine, Juan Garassino, Andrii Gegliuk, Yusuke Ishida for their guidance throughout the development of this project.
 - Gratitude to Sylvain Pierre, Jaris Fenner, Réda Kassi Lahlou for feedback that greatly improved the application.
