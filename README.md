@@ -34,19 +34,19 @@ This project leverages a variety of technologies, libraries, and tools focused o
 **Web Application:** Streamlit for developing interactive web apps to showcase the NLP models.
 
 ### NLP Techniques and Models:
-**Topic Modeling:** LDA (Latent Dirichlet Allocation) to discover abstract topics within text data.
-**Text Vectorization:** TF-IDF (Term Frequency-Inverse Document Frequency) for converting text to a meaningful vector of numbers.
-**Predictive Modeling:** Linear Regression to predict outcomes based on text data.
+- **Topic Modeling:** LDA (Latent Dirichlet Allocation) to discover abstract topics within text data.
+- **Text Vectorization:** TF-IDF (Term Frequency-Inverse Document Frequency) for converting text to a meaningful vector of numbers.
+- **Predictive Modeling:** Linear Regression to predict outcomes based on text data.
 
 ### Development Environment:
-**Jupyter Notebook:** Used for interactive model development and experimentation.
-**Visual Studio Code:** Employed for packaging the model and further development, including the frontend.
+- **Jupyter Notebook:** Used for interactive model development and experimentation.
+- **Visual Studio Code:** Employed for packaging the model and further development, including the frontend.
 
 ### APIs and External Services:
-**OpenAI Public API:** Engaged to enrich the application with actionable suggestions for restaurant owners through advanced NLP capabilities.
+- **OpenAI Public API:** Engaged to enrich the application with actionable suggestions for restaurant owners through advanced NLP capabilities.
 
 ### Frontend:
-**Streamlit:** Employed a user-friendly interface for interacting with the backend models, facilitating real-time input and feedback from users.
+- **Streamlit:** Employed a user-friendly interface for interacting with the backend models, facilitating real-time input and feedback from users.
 
 ## Project Presentation
 [View GoogleSlides Presentation](https://docs.google.com/presentation/d/1Dd6LnDLeSySS5ePxq6UU9FqNN78-lAZCRejmnD34oHk/edit?usp=sharing)
