@@ -128,7 +128,7 @@ This project was developed as a proof of concept to demonstrate the potential of
 ### Web App Functionality
 - Specificity to Selected Restaurants: Given the project's proof-of-concept nature, the web app is designed to work exclusively with the data from the 10 specified restaurants. As such, it does not currently support real-time analysis or the inclusion of additional restaurants beyond this curated set.
 
-### Imlications
+### Implications
 These limitations mean that while the project successfully demonstrates the applicability of NLP techniques for sentiment analysis in the restaurant industry, its current implementation is not scalable or directly applicable to a broader set of restaurants without further development. The static nature of the dataset and the web app's focus on a small number of restaurants restrict the direct application of this tool by other restaurant owners or stakeholders interested in gaining similar insights for different establishments.
 
 ## Future Work
