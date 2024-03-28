@@ -17,7 +17,7 @@
   - [Data Preprocessing](#data-preprocessing)
   - [Web App Functionality](#web-app-functionality)
   - [Implications](#implications)
-  - [Future Work](#future-work)
+- [Future Work](#future-work)
 - [Support](#support)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
@@ -131,7 +131,7 @@ This project was developed as a proof of concept to demonstrate the potential of
 ### Imlications
 These limitations mean that while the project successfully demonstrates the applicability of NLP techniques for sentiment analysis in the restaurant industry, its current implementation is not scalable or directly applicable to a broader set of restaurants without further development. The static nature of the dataset and the web app's focus on a small number of restaurants restrict the direct application of this tool by other restaurant owners or stakeholders interested in gaining similar insights for different establishments.
 
-### Future Work
+## Future Work
 Recognizing these limitations, future iterations of this project could include:
 
 - Expanding the dataset to include a wider range of restaurants across different geographic locations.
