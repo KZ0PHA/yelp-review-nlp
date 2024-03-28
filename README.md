@@ -1,10 +1,23 @@
 # Yelp Sentiment Analysis using Natural Language Processing Modelling
 
+## Table of contents
+- [Description](#description)
+- [Technologies Used](#technologies-used)
+  - [Libraries](#libraries)
+  - [NLP Techniques and Models](#nlp-techniques-and-models)
+  - [Development Environment](#development-environment)
+  - [APIs and External Services](#apis-and-external-services)
+  - [Frontend](#frontend)
+- [Project Presentation](#project-presentation)
+- [Key Features of NLPalate](#key-features-of-nlpalate)
+- [Web App Demo](#web-app-demo)
+- [Installation Instructions](#installation-instructions)
+- [Usage Instructions](#usage-instructions)
+- [Support](#support)
+- [Roadmap](#roadmap)
+
 ## Description
 This project explores the sentiment of [Yelp reviews](https://www.yelp.com/dataset) in the US to provide aggregated insights for restaurant owners, guiding them in decision making to better allocate resources to pinpoint issues and optimize performance.
-
-## Table of contents
-To be updated
 
 ## Technologies used
 This project leverages a variety of technologies, libraries, and tools focused on data science and natural language processing (NLP), built with Python 3.10.6. Here's an overview of the foundational elements:
