@@ -66,7 +66,7 @@ This project leverages a variety of technologies, libraries, and tools focused o
 
 ## Web App Demo
 [NLPalate](https://nlpalate.streamlit.app/)
-![NLPalate_search_page](https://drive.google.com/file/d/1ahH1dTiWS8S33TEGA5qlXLqEvEJqswQL/view?usp=sharing "NLPalate search page")
+[NLPalate_search_page](https://drive.google.com/file/d/1ahH1dTiWS8S33TEGA5qlXLqEvEJqswQL/view?usp=sharing)
 
 
 ## Installation instructions
