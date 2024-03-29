@@ -18,6 +18,11 @@
   - [Web App Functionality](#web-app-functionality)
   - [Implications](#implications)
 - [Future Work](#future-work)
+- [Project Status](#project-status)
+  - [Current State](#current-state)
+  - [Achievements](#achievements)
+  - [Challenges](#challenges)
+  - [Future Work](#future-work)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
@@ -131,12 +136,26 @@ This project was developed as a proof of concept to demonstrate the potential of
 ### Implications
 These limitations mean that while the project successfully demonstrates the applicability of NLP techniques for sentiment analysis in the restaurant industry, its current implementation is not scalable or directly applicable to a broader set of restaurants without further development. The static nature of the dataset and the web app's focus on a small number of restaurants restrict the direct application of this tool by other restaurant owners or stakeholders interested in gaining similar insights for different establishments.
 
-## Future Work
+## Project Status
+### Current State
+As of the last update, this project is in a proof-of-concept stage. Developed over an intensive two-week sprint by a dedicated team, the focus was on demonstrating the feasibility and potential impact of applying Natural Language Processing (NLP) techniques to analyze Yelp reviews for restaurant owners. Due to the ambitious scope and the computational resources required, the current implementation of our web application is limited to analyzing data from a select group of 10 restaurants in the New Orleans area in the US.
+
+### Achievements
+Despite the constrained timeline, the project successfully:
+
+- Implements key NLP techniques such as LDA topic modeling, TF-IDF, and linear regression to extract actionable insights from Yelp reviews.
+- Establishes a fully functional web application that showcases the utility of NLP in deriving meaningful patterns and suggestions from customer feedback.
+- Demonstrates the application's potential to aid restaurant owners in decision-making by highlighting prevalent topics and sentiments in reviews.
+
+### Challenges
+The primary challenge faced was the computational limitation. Processing a larger dataset with more restaurants would require significantly more computational power and potentially more sophisticated data handling and processing strategies, which were not feasible within the project's timeframe.
+
+### Future Work
 Recognizing these limitations, future iterations of this project could include:
 
-- Expanding the dataset to include a wider range of restaurants across different geographic locations.
-- Implementing dynamic data preprocessing and analysis capabilities within the web app to accommodate new reviews and restaurants in real-time.
-- Enhancing the web app's scalability to serve as a more generalized tool for sentiment analysis within the restaurant industry.
+- **Scalability:** Exploring more efficient data processing and storage solutions to include a broader selection of restaurants and reviews.
+- **Dynamic Analysis:** Implementing functionality to dynamically fetch and analyze new reviews, providing up-to-date insights.
+- **Geographical Expansion:** Expanding the scope beyond New Orleans to include restaurants across various regions, offering a wider perspective on customer sentiment.
 
 ## Authors
 - **Sophia Tsoi** - [KZ0PHA](https://github.com/KZ0PHA)
