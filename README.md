@@ -66,6 +66,8 @@ This project leverages a variety of technologies, libraries, and tools focused o
 
 ## Web App Demo
 [NLPalate](https://nlpalate.streamlit.app/)
+![NLPalate_search_page](https://drive.google.com/file/d/1ahH1dTiWS8S33TEGA5qlXLqEvEJqswQL/view?usp=sharing "NLPalate search page")
+
 
 ## Installation instructions
 To get this project up and running on your local machine, follow these steps. These instructions assume you have Python 3.10.6 installed. If not, please install Python from python.org first.
